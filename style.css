@@ -50,6 +50,12 @@ body {
 }
 
 
+.title {
+    width: 85%;
+    margin: auto;   
+}
+
+
 .box {    
     display: flex;
     flex-direction: column;
