@@ -39,6 +39,7 @@ body {
 }
 
 .one {
+  margin-top: 2vh; 
   background-image: url('/CV/1.jpg');
 }
 
