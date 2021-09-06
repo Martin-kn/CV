@@ -49,6 +49,17 @@ body {
   background-image: url('');
 }
 
+
+.box {    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    margin: auto;    
+}
+
+
+
 .container {	
 	display: flex;
 	flex-direction: column;
